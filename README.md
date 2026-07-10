@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🦄 Hey there, I'm Xuviu!
+# 🦄 Hey there, I'm xivi!
 
 ### *Aspiring Security Researcher • Code Enthusiast • Digital Explorer*
 
