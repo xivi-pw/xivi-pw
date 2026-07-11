@@ -90,8 +90,8 @@ I believe in learning by doing, failing fast, and sharing the journey. If you're
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/kepacode?style=social)](https://github.com/xivi-pw)
-[![GitHub stars](https://img.shields.io/github/stars/kepacode?style=social)](https://github.com/xivi-pw)
+[![GitHub followers](https://img.shields.io/github/followers/xivi-pw?style=social)](https://github.com/xivi-pw)
+[![GitHub stars](https://img.shields.io/github/stars/xivi-pw?style=social)](https://github.com/xivi-pw)
 
 </div>
 
