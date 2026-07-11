@@ -49,17 +49,17 @@ I'm just getting started in the world of coding, but I'm passionate about **cybe
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kepacode&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xivi-pw&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kepacode&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xivi-pw&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kepacode/kepacode/refs/heads/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kepacode/kepacode/refs/heads/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xivi-pw/xivi-pw/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xivi-pwe/xivi-pw/refs/heads/output/github-contribution-grid-snake.svg" />
     <img alt="github contribution grid snake animation" />
   </picture>
 </div>
@@ -90,13 +90,13 @@ I believe in learning by doing, failing fast, and sharing the journey. If you're
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/kepacode?style=social)](https://github.com/kepacode)
-[![GitHub stars](https://img.shields.io/github/stars/kepacode?style=social)](https://github.com/kepacode)
+[![GitHub followers](https://img.shields.io/github/followers/kepacode?style=social)](https://github.com/xivi-pw)
+[![GitHub stars](https://img.shields.io/github/stars/kepacode?style=social)](https://github.com/xivi-pw)
 
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kepacode&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=xivi-pw&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
 
 ---
