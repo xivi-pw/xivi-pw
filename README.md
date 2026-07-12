@@ -39,7 +39,7 @@ I'm just getting started in the world of coding, but I'm passionate about **cybe
 
 ### Development Environment
 
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,neovim" alt="IDEs" />
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio" alt="IDEs" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="50" alt="pycharm logo" />
 
 </div>
