@@ -40,9 +40,10 @@ I'm just getting started in the world of coding, but I'm passionate about **cybe
 ### Development Environment
 
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio" alt="IDEs" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="50" alt="pycharm logo" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Ghidra_logo.svg/960px-Ghidra_logo.svg.png" height="50" alt="ghidra" />
 <img src="https://media.discordapp.net/attachments/1343039739091226714/1525896077121683486/geek3.png?ex=6a550cf6&is=6a53bb76&hm=b63b3bc601fc58f767997ca084f6160e1b14406a0d3d937de72ad6ee942812ed&=&format=webp&quality=lossless&width=125&height=125" height="50" alt="IDA" />
+<img src="https://media.discordapp.net/attachments/1343039739091226714/1525896611883122688/geek6.png?ex=6a550d76&is=6a53bbf6&hm=17f7566982e38cfed96004edacbc8f5c67e2c5fea7650980d1e295a9eb3b7efa&=&format=webp&quality=lossless&width=125&height=125" height="50" alt="x64dbg" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" height="50" alt="wireshark" />
 
 </div>
 
