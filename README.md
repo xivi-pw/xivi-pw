@@ -41,6 +41,7 @@ I'm just getting started in the world of coding, but I'm passionate about **cybe
 
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio" alt="IDEs" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="50" alt="pycharm logo" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Ghidra_logo.svg/960px-Ghidra_logo.svg.png" height="50" alt="ghidra" />
 
 </div>
 
