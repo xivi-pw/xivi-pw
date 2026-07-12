@@ -31,11 +31,11 @@ I'm just getting started in the world of coding, but I'm passionate about **cybe
 
 ### Frameworks & Libraries
 
-<img src="https://skillicons.dev/icons?i=react,dotnet" alt="Frameworks" />
+<img src="https://skillicons.dev/icons?i=fastapi,docker,dotnet" alt="Frameworks" />
 
 ### Tools & Technologies
 
-<img src="https://skillicons.dev/icons?i=git,ps,ae,kali" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=figma,ps,kali" alt="Tools" />
 
 ### Development Environment
 
