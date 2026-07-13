@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-I'm just getting started in the world of coding, but I'm passionate about **cybersecurity**, **reverse engineering**, and **web development**. This is my space to share projects, experiments, and the lessons I learn along the way.
+I'm just getting started in the world of coding, but I'm passionate about **cybersecurity**, **reverse engineering**, and **low level programming**. This is my space to share projects, experiments, and the lessons I learn along the way.
 
 - 🔐 Practicing **penetration testing** as Red Team
 - 🔍 Diving into **reverse engineering**
