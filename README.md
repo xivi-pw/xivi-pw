@@ -41,7 +41,7 @@ I'm just getting started in the world of coding, but I'm passionate about **cybe
 
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio" alt="IDEs" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Ghidra_logo.svg/960px-Ghidra_logo.svg.png" height="50" alt="ghidra" />
-<img src="https://media.discordapp.net/attachments/1343039739091226714/1525896077121683486/geek3.png?ex=6a7a9fb6&is=6a794e36&hm=e648c9c63b6493742a614cbee700bddca006ec7cc922177f6c648dfc9fc87b13&=&format=webp&quality=lossless" height="50" alt="IDA" />
+<!-- <img src="https://media.discordapp.net/attachments/1343039739091226714/1525896077121683486/geek3.png?ex=6a7a9fb6&is=6a794e36&hm=e648c9c63b6493742a614cbee700bddca006ec7cc922177f6c648dfc9fc87b13&=&format=webp&quality=lossless" height="50" alt="IDA" /> -->
 <!-- <img src="https://media.discordapp.net/attachments/1343039739091226714/1525896611883122688/geek6.png?ex=6a550d76&is=6a53bbf6&hm=17f7566982e38cfed96004edacbc8f5c67e2c5fea7650980d1e295a9eb3b7efa&=&format=webp&quality=lossless&width=125&height=125" height="50" alt="x64dbg" /> -->
 
 </div>
