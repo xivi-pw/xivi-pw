@@ -72,7 +72,7 @@ I'm just getting started in the world of coding, but I'm passionate about **cybe
 
 ```python
 current_goals = {
-    "learning": ["Advanced C#", "Exploit Development", "React Hooks"],
+    "learning": ["Advanced ASM", "Exploit Development", "DirectX Hooks"],
     "practicing": ["CTF Challenges", "OWASP Top 10", "Code Reviews"],
     "building": ["Personal Portfolio", "Security Tools", "Web Apps"]
 }
