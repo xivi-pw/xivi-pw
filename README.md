@@ -27,7 +27,7 @@ I'm just getting started in the world of coding, but I'm passionate about **cybe
 
 ### Languages I'm Learning
 
-<img src="https://skillicons.dev/icons?i=c,cpp,py,ps,bash" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=c,cpp,py,powershell,bash" alt="Languages" />
 
 ### Frameworks & Libraries
 
