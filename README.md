@@ -80,14 +80,6 @@ current_goals = {
 
 ---
 
-## 💭 Coding Philosophy
-
-> *"Every expert was once a beginner. Every master was once a disaster."*
-
-I believe in learning by doing, failing fast, and sharing the journey. If you're also starting out or have advice to share, let's connect!
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
