@@ -65,23 +65,6 @@ I'm just getting started in the world of coding, but I'm passionate about **cybe
     <img alt="github contribution grid snake animation" />
   </picture>
 </div>
-
----
-
-## 🌱 Current Focus
-
-```python
-current_goals = {
-    "learning": ["Advanced ASM", "Exploit Development", "DirectX Hooks"],
-    "practicing": ["CTF Challenges", "OWASP Top 10", "Code Reviews"],
-    "building": ["Personal Portfolio", "Security Tools", "Web Apps"]
-}
-```
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=xivi-pw&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-</div>
-
 ---
 
 <div align="center">
