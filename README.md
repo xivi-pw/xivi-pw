@@ -65,7 +65,6 @@ I'm just getting started in the world of coding, but I'm passionate about **cybe
     <img alt="github contribution grid snake animation" />
   </picture>
 </div>
----
 
 <div align="center">
   
