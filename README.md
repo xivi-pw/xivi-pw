@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://media.discordapp.net/attachments/1470195552183648402/1558980414851518514/5330ab317e28c7ea.png?ex=6acd6927&is=6acc17a7&hm=86bdd1c456eada849fe9756709ee1e467d3b5c4fc0f849633d7fd7f000ebdc58&=&format=webp&quality=lossless" alt="Typing SVG" />
+# <img src="https://media.discordapp.net/attachments/1470195552183648402/1558981860410007643/2.png?ex=6acd6a80&is=6acc1900&hm=00129fd02f27cf12b84ce391b9632d252b62d01cfbb22f6a8a8270d84056d7d8&=&format=webp&quality=lossless" alt="Typing SVG" />
 
 ### *Aspiring Security Researcher • Code Enthusiast • Digital Explorer*
 
