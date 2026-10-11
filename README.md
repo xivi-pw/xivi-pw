@@ -4,7 +4,7 @@
 
 ### *Aspiring Security Researcher • Code Enthusiast • Digital Explorer*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9D4EDD&center=true&vCenter=true&width=435&lines=Welcome+to+my+coding+journey!;Red+Team+Practitioner;Reverse+Engineering+Explorer;Web+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=115400&center=true&vCenter=true&width=435&lines=Welcome+to+my+coding+journey!;Red+Team+Practitioner;Reverse+Engineering+Explorer;Web+Developer" alt="Typing SVG" />
 
 </div>
 
