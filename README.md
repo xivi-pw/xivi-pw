@@ -35,7 +35,7 @@ I'm just getting started in the world of coding, but I'm passionate about **cybe
 
 ### Tools & Technologies
 
-<img src="https://skillicons.dev/icons?i=figma,ps,kali" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=figma,ps" alt="Tools" />
 
 ### Development Environment
 
