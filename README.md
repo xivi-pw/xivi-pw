@@ -78,17 +78,6 @@ current_goals = {
 }
 ```
 
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![GitHub followers](https://img.shields.io/github/followers/xivi-pw?style=social)](https://github.com/xivi-pw)
-[![GitHub stars](https://img.shields.io/github/stars/xivi-pw?style=social)](https://github.com/xivi-pw)
-
-</div>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=xivi-pw&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
