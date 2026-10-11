@@ -10,18 +10,18 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm just getting started in the world of coding, but I'm passionate about **cybersecurity**, **reverse engineering**, and **low level programming**. This is my space to share projects, experiments, and the lessons I learn along the way.
 
-- 🔐 Practicing **cracking** as Red Team
-- 🔍 Diving into **reverse engineering and malware-analysis**
-- 🌐 Building things on the **web**
-- 📚 Always learning, always curious
+- Practicing **cracking** as Red Team
+- Diving into **reverse engineering and malware-analysis**
+- Building things on the **web**
+- Always learning, always curious
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
